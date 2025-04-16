@@ -1,0 +1,7 @@
+[project]
+name = "ora-reflector"
+version = "0.1.0"
+description = "A Python tool to generate Rust structs from Oracle database schemas with progress tracking and type mapping"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
